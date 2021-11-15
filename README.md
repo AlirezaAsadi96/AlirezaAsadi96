@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAsadi96&show_icons=true&theme=onedark)](https://github.com/AlirezaAsadi96/)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAsadi96&show_icons=true&theme=react)](https://github.com/AlirezaAsadi96/)
 <!--
 **AlirezaAsadi96/AlirezaAsadi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
